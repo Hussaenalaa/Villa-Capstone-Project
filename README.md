@@ -40,27 +40,7 @@ It demonstrates core VR interaction systems designed for Meta Quest 2/3, built u
 
 ## 📁 Project Structure  
 
-```bash
-Assets/
-├── Prefabs/
-│   ├── PFB_Building_Full.prefab
-│   ├── PlayerFPS.prefab
-│   ├── Room.prefab
-│
-├── Scenes/
-│   └── AmericanHome_Backyard.unity
-│
-├── Scripts/
-│   ├── HoopTrigger.cs
-│   ├── LightSwitchController.cs
-│   └── ScoreManager.cs
-│
-└── Tools/
-    ├── Door_2.05x0.9.prefab
-    ├── Human_1.75m.prefab
-    ├── Ruler_1m.prefab
-    ├── XR Origin Hands (XR Rig).prefab
-    └── TutorialInfo.meta
+
 
 🧩 Platform & Compatibility
 
