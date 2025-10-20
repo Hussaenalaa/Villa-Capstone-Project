@@ -25,16 +25,23 @@ It demonstrates core VR interaction systems designed for Meta Quest 2/3, built u
 
 ✅ Optimized performance for Quest 2/3
 
-🛠️ Tools & Packages
-Tool / Package	Version	Purpose
-Unity	6.2 LTS	Game engine
-Meta XR All-in-One SDK	v65	VR input, teleportation, grab system
-XR Interaction Toolkit	3.2.1	Extended VR interactions
-URP (Universal Render Pipeline)	Default	Rendering & lighting
-Shader Graph	—	Custom materials
-Visual Studio	2022	C# scripting
-📁 Project Structure
-'''Assets/
+## 🛠️ Tools & Packages Used  
+
+| Tool / Package | Version | Purpose |
+|----------------|----------|----------|
+| Unity | 6.2 LTS | Game engine |
+| Meta XR All-in-One SDK | v65 | VR input, teleportation, grab system |
+| XR Interaction Toolkit | 3.2.1 | Extended VR interactions |
+| URP (Universal Render Pipeline) | Default | Rendering & lighting |
+| Shader Graph | — | Custom materials |
+| Visual Studio | 2022 | C# scripting |
+
+---
+
+## 📁 Project Structure  
+
+```bash
+Assets/
 ├── Prefabs/
 │   ├── PFB_Building_Full.prefab
 │   ├── PlayerFPS.prefab
@@ -54,7 +61,7 @@ Visual Studio	2022	C# scripting
     ├── Ruler_1m.prefab
     ├── XR Origin Hands (XR Rig).prefab
     └── TutorialInfo.meta
-'''
+
 🧩 Platform & Compatibility
 
 VR Headsets: Meta Quest 2 / Quest 3
